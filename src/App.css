@@ -33,7 +33,7 @@ body {
   right: 0;
   bottom: 0;
   /* background: black; */
-  background-image: url("../public/assets/background/parallax-bg.gif");
+  background-image: url("./assets/background/parallax-bg.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
